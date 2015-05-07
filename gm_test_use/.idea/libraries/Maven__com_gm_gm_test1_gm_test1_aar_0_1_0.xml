@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.gm.gm_test1:gm_test1:aar:0.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gen-external-apklibs/com.gm.gm_test1_gm_test1_0.1.0/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/gen-external-apklibs/com.gm.gm_test1_gm_test1_0.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gm/gm_test1/gm_test1/0.1.0/gm_test1-0.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gm/gm_test1/gm_test1/0.1.0/gm_test1-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
